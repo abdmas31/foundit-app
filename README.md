@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Abdullah Masaud**
+**Abdallah Masssarwe**
 - GitHub: [@abdmas31](https://github.com/abdmas31)
 
 ## Acknowledgments
